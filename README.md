@@ -1,7 +1,7 @@
 I'm based in Nairobi
 * ✉️  You can contact me at [TonyBirech@gmail.com](mailto:TonyBirech@gmail.com)
 * 🧠  I'm currently learning Programming
-* 👥  I'm looking to collaborate on In projects entailing programming
+* 👥  I'm looking to collaborate on  projects entailing programming
 * 💬  Ask me about I
 
 
